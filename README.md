@@ -3,6 +3,12 @@
 ``
 A Real-Time Transcription Web App in Python using AssemblyAI and Streamlit.
 ``
+
+
+![](https://github.com/Anas436/Real-Time-Speech-Recognition/blob/main/demo.png)
+
+
+
 # 1. Obtain the AssemblyAI API key
 
 Obtain your free [AssemblyAI API key](https://www.assemblyai.com/?utm_source=youtube&utm_medium=social&utm_campaign=dataprofessor_realtime).
