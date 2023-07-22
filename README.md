@@ -1,11 +1,8 @@
-# realtime-transcription
+# Real-Time-Speech-Recognition
 
-# Watch the tutorial video
-
-[How to Build a Real-Time Transcription Web App in Python using AssemblyAI and Streamlit](https://youtu.be/Kj0JtjAxxKA)
-
-<a href="https://youtu.be/8rb9GefC_CU"><img src="http://img.youtube.com/vi/8rb9GefC_CU/0.jpg" alt="How to Build a Real-Time Transcription Web App in Python using AssemblyAI and Streamlit" title="How to Build a Real-Time Transcription Web App in Python using AssemblyAI and Streamlit" width="500" /></a>
-
+``
+A Real-Time Transcription Web App in Python using AssemblyAI and Streamlit.
+``
 # 1. Obtain the AssemblyAI API key
 
 Obtain your free [AssemblyAI API key](https://www.assemblyai.com/?utm_source=youtube&utm_medium=social&utm_campaign=dataprofessor_realtime).
