@@ -23,7 +23,7 @@ conda activate transcription
 ###  Download GitHub repo
 
 ```bash
-git clone https://github.com/dataprofessor/realtime-transcription
+git clone https://github.com/Anas436/Real-Time-Speech-Recognition
 ```
 
 ###  Pip install libraries
@@ -34,5 +34,5 @@ pip install -r requirements.txt
 ###  Launch the app
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
